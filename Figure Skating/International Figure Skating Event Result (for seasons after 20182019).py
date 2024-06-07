@@ -32,7 +32,7 @@ PCSPanelTitle = np.array(
          'TSS', 'TES', 'PCS', 'DED', 'PC', 'Factor', 'PScoreofPanel','PScore', 'Role'])
 PCSPanel[0, :] = PCSPanelTitle
 
-# 读取所有文件（拆分由ABBYY根据目录拆分，手动命名为标准格式）
+# 读取所有文件（由ABBYY根据目录拆分，手动命名为标准格式）
 file_list = os.listdir('D:\Research\FigureSkating\Result')
 file_num = len(file_list)
 runflag = 1
@@ -48,7 +48,7 @@ for i in range(file_num):
 
         # 开始文档信息读取
         with pdfplumber.open(path) as pdf:
-            #从文档名字获取比赛基本信息（举办国/冰场信息需要手动从网页爬取匹配），一个文档对应一场比赛中的一个单项
+            # 从文档名字获取比赛基本信息（举办地/冰场信息需要手动从网页爬取匹配），一个文档对应一场比赛中的一个单项
             BasePanel[1, 0] = str(yeartemp)
             BasePanel[2, 0] = str(yeartemp)
             BasePanel[1, 1] = competitiontemp
@@ -71,7 +71,7 @@ for i in range(file_num):
                 if 'Technical' in matrix and 'Specialist' in matrix:
                     temp1 = matrix
                     rows, cols = temp1.shape
-                    ## 判断是哪个项目/哪个轮次
+                    # 判断是哪个项目/哪个轮次
                     if 'SHORT' in temp1 or 'RHYTHM' in temp1 or 'FREE' in temp1:
                         if 'SHORT' in temp1 or 'RHYTHM' in temp1:
                             roundtemp = 'SP'
@@ -79,7 +79,7 @@ for i in range(file_num):
                             roundtemp = 'FS'
                     else:
                         roundtemp = 'both'
-                    ## 识别裁判身份种类（Technical Specialist有时候没有Assistant前缀）
+                    # 识别裁判身份种类（Technical Specialist有时候没有Assistant前缀）
                     for r in range(0, rows - 1, 1):
                         ttemp = temp1[r, :].tolist()
                         try:
@@ -93,7 +93,7 @@ for i in range(file_num):
                                 prefixindex = ttemp.index('Mr.')
                             except ValueError:
                                 pass
-                        ## 用于标识有裁判有效性息的行
+                        # 用于标识有裁判有效性息的行
                         addflag = 0
                         if temp1[r, 0] == 'Technical' or temp1[r, 0] == 'Data' or temp1[r, 0] == 'Replay' or temp1[
                             r, 0] == 'Judge' or temp1[r, 0] == 'Assistant' or temp1[r, 0] == 'Referee':
@@ -106,7 +106,7 @@ for i in range(file_num):
                                 nametemp = nametemp + temp1[r, rr]
                             nationtemp = temp1[r, endindex - 1]
                             addflag = 1
-                        ## 确定JudgePanel轮次，一些比如GPF裁判会同时判两场
+                        # 确定JudgePanel轮次，一些比如GPF裁判会同时判两场
                         if addflag == 1:
                             if roundtemp == 'SP':
                                 JudgePanelAdd = [BasePanel[1, 0], BasePanel[1, 1], BasePanel[1, 2], roundtemp, roletemp,
