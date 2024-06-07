@@ -1,0 +1,833 @@
+Year,Competition,Discipline,Round,Role,JudgeGender,JudgeName,JudgeNation
+2019,2019ec,Ice Dance,SP,TechnicalController,Mr.,ShawnRETTSTATTISU,ISU
+2019,2019ec,Ice Dance,SP,TechnicalSpecialist,Mr.,SergeiBARANOVISU,ISU
+2019,2019ec,Ice Dance,SP,AssistantTechnicalSpecialist,Mr.,AndrzejDOSTATNIISU,ISU
+2019,2019ec,Ice Dance,SP,Referee,Ms.,RossellaCECCATTINIISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.1,Mr.,AttilaSOOSISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.2,Mr.,AllanBOEHMISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.3,Ms.,MairaABASOVAISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.4,Ms.,MalgorzataGRAJCARISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.5,Ms.,TatianaYORDANOVAISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.6,Ms.,PriscaBINZ-MOSERISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.7,Mr.,ChristopherBUCHANANISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.8,Ms.,JezabelDABOUISISU,ISU
+2019,2019ec,Ice Dance,SP,JudgeNo.9,Mr.,DavidMUNOZISU,ISU
+2019,2019ec,Ice Dance,SP,DataOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2019,2019ec,Ice Dance,SP,ReplayOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Ice Dance,FS,TechnicalController,Mr.,ShawnRETTSTATTISU,ISU
+2019,2019ec,Ice Dance,FS,TechnicalSpecialist,Mr.,SergeiBARANOVISU,ISU
+2019,2019ec,Ice Dance,FS,AssistantTechnicalSpecialist,Mr.,AndrzejDOSTATNIISU,ISU
+2019,2019ec,Ice Dance,FS,Referee,Ms.,RossellaCECCATTINIISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.1,Mr.,AttilaSOOSISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.2,Ms.,MalgorzataGRAJCARISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.3,Ms.,JezabelDABOUISISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.4,Ms.,PriscaBINZ-MOSERISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.5,Mr.,ChristopherBUCHANANISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.6,Mr.,AlexeiBELETSKIISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.7,Ms.,MichelaCESAROISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.8,Mr.,AllanBOEHMISU,ISU
+2019,2019ec,Ice Dance,FS,JudgeNo.9,Ms.,AnastassiyaMAKAROVAISU,ISU
+2019,2019ec,Ice Dance,FS,DataOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2019,2019ec,Ice Dance,FS,ReplayOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Ladies,SP,TechnicalController,Ms.,RaffaellaLOCATELLIISU,ISU
+2019,2019ec,Ladies,SP,TechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2019,2019ec,Ladies,SP,AssistantTechnicalSpecialist,Mr.,JamieMCGRIGORISU,ISU
+2019,2019ec,Ladies,SP,Referee,Ms.,FlorenceVUYLSTEKERISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.1,Ms.,MonaADOLFSENISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.2,Ms.,LoneAMSTRUPLINNEMANNISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.3,Mr.,YuryKLIUSHNIKOVISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.4,Ms.,HermiOTTEMANNISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.5,Ms.,ZoiaYORDANOVAISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.6,Mr.,SviatoslavBABENKOISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.7,Ms.,LaimuteKRAUZIENEISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.8,Ms.,ZsuzsannaVIKARNE-HOMOLYAISU,ISU
+2019,2019ec,Ladies,SP,JudgeNo.9,Ms.,LenkaBOHUNICKAISU,ISU
+2019,2019ec,Ladies,SP,DataOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Ladies,SP,ReplayOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2019,2019ec,Ladies,FS,TechnicalController,Ms.,RaffaellaLOCATELLIISU,ISU
+2019,2019ec,Ladies,FS,TechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2019,2019ec,Ladies,FS,AssistantTechnicalSpecialist,Mr.,JamieMCGRIGORISU,ISU
+2019,2019ec,Ladies,FS,Referee,Ms.,FlorenceVUYLSTEKERISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.1,Ms.,PiaALHONENISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.2,Ms.,AgitaABELEISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.3,Mr.,YuryKLIUSHNIKOVISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.4,Ms.,KadiZVIRIKISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.5,Ms.,LoneAMSTRUPLINNEMANNISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.6,Ms.,LaimuteKRAUZIENEISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.7,Ms.,LenkaBOHUNICKAISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.8,Mr.,SviatoslavBABENKOISU,ISU
+2019,2019ec,Ladies,FS,JudgeNo.9,Ms.,MartaOLOZAGARREISU,ISU
+2019,2019ec,Ladies,FS,DataOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Ladies,FS,ReplayOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2019,2019ec,Men,SP,TechnicalController,Ms.,JuliaANDREEVAISU,ISU
+2019,2019ec,Men,SP,TechnicalSpecialist,Mr.,JanCEJVANISU,ISU
+2019,2019ec,Men,SP,AssistantTechnicalSpecialist,Ms.,JyrinaLORENZISU,ISU
+2019,2019ec,Men,SP,Referee,Ms.,EkaterinaSEROVAISU,ISU
+2019,2019ec,Men,SP,JudgeNo.1,Ms.,LiseRostoJENSENISU,ISU
+2019,2019ec,Men,SP,JudgeNo.2,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2019,2019ec,Men,SP,JudgeNo.3,Ms.,NadezhdaFIODOROVAISU,ISU
+2019,2019ec,Men,SP,JudgeNo.4,Mr.,OsmanSIRVANISU,ISU
+2019,2019ec,Men,SP,JudgeNo.5,Ms.,SaioaSANCHOISU,ISU
+2019,2019ec,Men,SP,JudgeNo.6,Ms.,PernillaBOHLINGISU,ISU
+2019,2019ec,Men,SP,JudgeNo.7,Ms.,ElizabethLITTLERM.B.E.ISU,ISU
+2019,2019ec,Men,SP,JudgeNo.8,Ms.,IrinaMEDVEDEVAISU,ISU
+2019,2019ec,Men,SP,JudgeNo.9,Ms.,ZannaKULIKISU,ISU
+2019,2019ec,Men,SP,DataOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2019,2019ec,Men,SP,ReplayOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Men,FS,TechnicalController,Ms.,JuliaANDREEVAISU,ISU
+2019,2019ec,Men,FS,TechnicalSpecialist,Mr.,JanCEJVANISU,ISU
+2019,2019ec,Men,FS,AssistantTechnicalSpecialist,Ms.,JyrinaLORENZISU,ISU
+2019,2019ec,Men,FS,Referee,Ms.,EkaterinaSEROVAISU,ISU
+2019,2019ec,Men,FS,JudgeNo.1,Mr.,OsmanSIRVANISU,ISU
+2019,2019ec,Men,FS,JudgeNo.2,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2019,2019ec,Men,FS,JudgeNo.3,Ms.,ZannaKULIKISU,ISU
+2019,2019ec,Men,FS,JudgeNo.4,Ms.,SaioaSANCHOISU,ISU
+2019,2019ec,Men,FS,JudgeNo.5,Ms.,PernillaBOHLINGISU,ISU
+2019,2019ec,Men,FS,JudgeNo.6,Ms.,MarketaHORKLOVAISU,ISU
+2019,2019ec,Men,FS,JudgeNo.7,Mr.,IgorOBRAZTSOVISU,ISU
+2019,2019ec,Men,FS,JudgeNo.8,Ms.,IrinaMEDVEDEVAISU,ISU
+2019,2019ec,Men,FS,JudgeNo.9,Ms.,GloriaMORANDIISU,ISU
+2019,2019ec,Men,FS,DataOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2019,2019ec,Men,FS,ReplayOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Pairs,SP,TechnicalController,Ms.,AnnaSIEROCKAISU,ISU
+2019,2019ec,Pairs,SP,TechnicalSpecialist,Mr.,BradCOXISU,ISU
+2019,2019ec,Pairs,SP,AssistantTechnicalSpecialist,Ms.,LarisaFEDOSEEVAISU,ISU
+2019,2019ec,Pairs,SP,Referee,Mr.,IgorPROKOPISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.1,Mr.,AkosPETHESISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.2,Ms.,OlgaKOZHEMYAKINAISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.3,Ms.,AnnaKANTORISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.4,Ms.,NataliaKRUGLOVAISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.5,Ms.,JanaBAUDYSOVAISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.6,Mr.,BernhardJUSTISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.7,Ms.,HannaTHENISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.8,Ms.,LovorkaKODRINISU,ISU
+2019,2019ec,Pairs,SP,JudgeNo.9,Mr.,AnthonyLEROYISU,ISU
+2019,2019ec,Pairs,SP,DataOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Pairs,SP,ReplayOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2019,2019ec,Pairs,FS,TechnicalController,Ms.,AnnaSIEROCKAISU,ISU
+2019,2019ec,Pairs,FS,TechnicalSpecialist,Mr.,BradCOXISU,ISU
+2019,2019ec,Pairs,FS,AssistantTechnicalSpecialist,Ms.,LarisaFEDOSEEVAISU,ISU
+2019,2019ec,Pairs,FS,Referee,Mr.,IgorPROKOPISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.1,Mr.,AnthonyLEROYISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.2,Ms.,BredaMARINSEKISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.3,Mr.,AndreasWALDECKISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.4,Ms.,BeatricePFISTERISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.5,Ms.,AnnaKANTORISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.6,Ms.,HannaTHENISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.7,Mr.,AkosPETHESISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.8,Mr.,MarcoBUTTARELLIISU,ISU
+2019,2019ec,Pairs,FS,JudgeNo.9,Ms.,OlgaKOZHEMYAKINAISU,ISU
+2019,2019ec,Pairs,FS,DataOperator,Mr.,AlexanderKUZNETSOVISU,ISU
+2019,2019ec,Pairs,FS,ReplayOperator,Ms.,AnneFAGERSTRÖMISU,ISU
+2021,2021gpcan,Ice Dance,SP,TechnicalController,Ms.,HilarySELBYISU,ISU
+2021,2021gpcan,Ice Dance,FS,TechnicalController,Ms.,HilarySELBYISU,ISU
+2021,2021gpcan,Ice Dance,SP,TechnicalSpecialist,Mr.,RockLEMAYISU,ISU
+2021,2021gpcan,Ice Dance,FS,TechnicalSpecialist,Mr.,RockLEMAYISU,ISU
+2021,2021gpcan,Ice Dance,SP,AssistantTechnicalSpecialist,Ms.,TaehwaYANGISU,ISU
+2021,2021gpcan,Ice Dance,FS,AssistantTechnicalSpecialist,Ms.,TaehwaYANGISU,ISU
+2021,2021gpcan,Ice Dance,SP,Referee,Ms.,JenniferMASTISU,ISU
+2021,2021gpcan,Ice Dance,FS,Referee,Ms.,JenniferMASTISU,ISU
+2021,2021gpcan,Ice Dance,SP,JudgeNo.1,Mr.,RichardDALLEYUSA,USA
+2021,2021gpcan,Ice Dance,FS,JudgeNo.1,Mr.,RichardDALLEYUSA,USA
+2021,2021gpcan,Ice Dance,SP,JudgeNo.2,Ms.,ElenaFOMINARUS,RUS
+2021,2021gpcan,Ice Dance,FS,JudgeNo.2,Ms.,ElenaFOMINARUS,RUS
+2021,2021gpcan,Ice Dance,SP,JudgeNo.3,Ms.,YuliaLEVSHUNOVAGEO,GEO
+2021,2021gpcan,Ice Dance,FS,JudgeNo.3,Ms.,YuliaLEVSHUNOVAGEO,GEO
+2021,2021gpcan,Ice Dance,SP,JudgeNo.4,Ms.,MichelaCESAROITA,ITA
+2021,2021gpcan,Ice Dance,FS,JudgeNo.4,Ms.,MichelaCESAROITA,ITA
+2021,2021gpcan,Ice Dance,SP,JudgeNo.5,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2021,2021gpcan,Ice Dance,FS,JudgeNo.5,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2021,2021gpcan,Ice Dance,SP,JudgeNo.6,Ms.,SoYoungANKOR,KOR
+2021,2021gpcan,Ice Dance,FS,JudgeNo.6,Ms.,SoYoungANKOR,KOR
+2021,2021gpcan,Ice Dance,SP,JudgeNo.7,Ms.,UllaFAIGGER,GER
+2021,2021gpcan,Ice Dance,FS,JudgeNo.7,Ms.,UllaFAIGGER,GER
+2021,2021gpcan,Ice Dance,SP,JudgeNo.8,Ms.,MartaOLOZAGARREESP,ESP
+2021,2021gpcan,Ice Dance,FS,JudgeNo.8,Ms.,MartaOLOZAGARREESP,ESP
+2021,2021gpcan,Ice Dance,SP,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Ice Dance,FS,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Ice Dance,SP,ReplayOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021gpcan,Ice Dance,FS,ReplayOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021gpcan,Men,SP,TechnicalController,Ms.,BethCRANEISU,ISU
+2021,2021gpcan,Men,FS,TechnicalController,Ms.,BethCRANEISU,ISU
+2021,2021gpcan,Men,SP,TechnicalSpecialist,Ms.,JyrinaLORENZISU,ISU
+2021,2021gpcan,Men,FS,TechnicalSpecialist,Ms.,JyrinaLORENZISU,ISU
+2021,2021gpcan,Men,SP,AssistantTechnicalSpecialist,Mr.,MichaelHOPFESISU,ISU
+2021,2021gpcan,Men,FS,AssistantTechnicalSpecialist,Mr.,MichaelHOPFESISU,ISU
+2021,2021gpcan,Men,SP,Referee,Ms.,YukikoOKABEISU,ISU
+2021,2021gpcan,Men,FS,Referee,Ms.,YukikoOKABEISU,ISU
+2021,2021gpcan,Men,SP,JudgeNo.1,Ms.,EmilieBILLOWSWE,SWE
+2021,2021gpcan,Men,FS,JudgeNo.1,Ms.,EmilieBILLOWSWE,SWE
+2021,2021gpcan,Men,SP,JudgeNo.2,Ms.,TaeRiLEEKOR,KOR
+2021,2021gpcan,Men,FS,JudgeNo.2,Ms.,TaeRiLEEKOR,KOR
+2021,2021gpcan,Men,SP,JudgeNo.3,Ms.,SaaraEHALTFIN,FIN
+2021,2021gpcan,Men,FS,JudgeNo.3,Ms.,SaaraEHALTFIN,FIN
+2021,2021gpcan,Men,SP,JudgeNo.4,Ms.,TatianaSHARKINARUS,RUS
+2021,2021gpcan,Men,FS,JudgeNo.4,Ms.,TatianaSHARKINARUS,RUS
+2021,2021gpcan,Men,SP,JudgeNo.5,Ms.,YuliaLEVSHUNOVAGEO,GEO
+2021,2021gpcan,Men,FS,JudgeNo.5,Ms.,YuliaLEVSHUNOVAGEO,GEO
+2021,2021gpcan,Men,SP,JudgeNo.6,Mr.,DanielDELFAESP,ESP
+2021,2021gpcan,Men,FS,JudgeNo.6,Mr.,DanielDELFAESP,ESP
+2021,2021gpcan,Men,SP,JudgeNo.7,Ms.,KarenHOWARDCAN,CAN
+2021,2021gpcan,Men,FS,JudgeNo.7,Ms.,KarenHOWARDCAN,CAN
+2021,2021gpcan,Men,SP,JudgeNo.8,Ms.,RitsukoHORIUCHIJPN,JPN
+2021,2021gpcan,Men,FS,JudgeNo.8,Ms.,RitsukoHORIUCHIJPN,JPN
+2021,2021gpcan,Men,SP,JudgeNo.9,Ms.,KristinaLUNDGRENUSA,USA
+2021,2021gpcan,Men,FS,JudgeNo.9,Ms.,KristinaLUNDGRENUSA,USA
+2021,2021gpcan,Men,SP,DataOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021gpcan,Men,FS,DataOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021gpcan,Men,SP,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Men,FS,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Pairs,SP,TechnicalController,Ms.,KarenARCHERISU,ISU
+2021,2021gpcan,Pairs,FS,TechnicalController,Ms.,KarenARCHERISU,ISU
+2021,2021gpcan,Pairs,SP,TechnicalSpecialist,Mr.,RaoulLEBLANCISU,ISU
+2021,2021gpcan,Pairs,FS,TechnicalSpecialist,Mr.,RaoulLEBLANCISU,ISU
+2021,2021gpcan,Pairs,SP,AssistantTechnicalSpecialist,Mr.,AlexanderKUZNETSOVISU,ISU
+2021,2021gpcan,Pairs,FS,AssistantTechnicalSpecialist,Mr.,AlexanderKUZNETSOVISU,ISU
+2021,2021gpcan,Pairs,SP,Referee,Ms.,YukikoOKABEISU,ISU
+2021,2021gpcan,Pairs,FS,Referee,Ms.,YukikoOKABEISU,ISU
+2021,2021gpcan,Pairs,SP,JudgeNo.1,Ms.,SoYoungANKOR,KOR
+2021,2021gpcan,Pairs,FS,JudgeNo.1,Ms.,SoYoungANKOR,KOR
+2021,2021gpcan,Pairs,SP,JudgeNo.2,Ms.,KristinaLUNDGRENUSA,USA
+2021,2021gpcan,Pairs,FS,JudgeNo.2,Ms.,KristinaLUNDGRENUSA,USA
+2021,2021gpcan,Pairs,SP,JudgeNo.3,Ms.,AndreaDERBYCAN,CAN
+2021,2021gpcan,Pairs,FS,JudgeNo.3,Ms.,AndreaDERBYCAN,CAN
+2021,2021gpcan,Pairs,SP,JudgeNo.4,Ms.,UllaFAIGGER,GER
+2021,2021gpcan,Pairs,FS,JudgeNo.4,Ms.,UllaFAIGGER,GER
+2021,2021gpcan,Pairs,SP,JudgeNo.5,Ms.,MartaOLOZAGARREESP,ESP
+2021,2021gpcan,Pairs,FS,JudgeNo.5,Ms.,MartaOLOZAGARREESP,ESP
+2021,2021gpcan,Pairs,SP,JudgeNo.6,Ms.,TatianaSHARKINARUS,RUS
+2021,2021gpcan,Pairs,FS,JudgeNo.6,Ms.,TatianaSHARKINARUS,RUS
+2021,2021gpcan,Pairs,SP,JudgeNo.7,Ms.,EmilieBILLOWSWE,SWE
+2021,2021gpcan,Pairs,FS,JudgeNo.7,Ms.,EmilieBILLOWSWE,SWE
+2021,2021gpcan,Pairs,SP,JudgeNo.8,Ms.,WeiSHICHN,CHN
+2021,2021gpcan,Pairs,FS,JudgeNo.8,Ms.,WeiSHICHN,CHN
+2021,2021gpcan,Pairs,SP,JudgeNo.9,Ms.,SaaraEHALTFIN,FIN
+2021,2021gpcan,Pairs,FS,JudgeNo.9,Ms.,SaaraEHALTFIN,FIN
+2021,2021gpcan,Pairs,SP,DataOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021gpcan,Pairs,FS,DataOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021gpcan,Pairs,SP,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Pairs,FS,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Women,SP,TechnicalController,Ms.,BethCRANEISU,ISU
+2021,2021gpcan,Women,FS,TechnicalController,Ms.,BethCRANEISU,ISU
+2021,2021gpcan,Women,SP,TechnicalSpecialist,Mr.,MichaelHOPFESISU,ISU
+2021,2021gpcan,Women,FS,TechnicalSpecialist,Mr.,MichaelHOPFESISU,ISU
+2021,2021gpcan,Women,SP,AssistantTechnicalSpecialist,Ms.,JyrinaLORENZISU,ISU
+2021,2021gpcan,Women,FS,AssistantTechnicalSpecialist,Ms.,JyrinaLORENZISU,ISU
+2021,2021gpcan,Women,SP,Referee,Mr.,RogerGLENNISU,ISU
+2021,2021gpcan,Women,FS,Referee,Mr.,RogerGLENNISU,ISU
+2021,2021gpcan,Women,SP,JudgeNo.1,Ms.,EmilieBILLOWSWE,SWE
+2021,2021gpcan,Women,FS,JudgeNo.1,Ms.,EmilieBILLOWSWE,SWE
+2021,2021gpcan,Women,SP,JudgeNo.2,Ms.,KristinaLUNDGRENUSA,USA
+2021,2021gpcan,Women,FS,JudgeNo.2,Ms.,KristinaLUNDGRENUSA,USA
+2021,2021gpcan,Women,SP,JudgeNo.3,Mr.,DanielDELFAESP,ESP
+2021,2021gpcan,Women,FS,JudgeNo.3,Mr.,DanielDELFAESP,ESP
+2021,2021gpcan,Women,SP,JudgeNo.4,Mr.,GlennFORTINCAN,CAN
+2021,2021gpcan,Women,FS,JudgeNo.4,Mr.,GlennFORTINCAN,CAN
+2021,2021gpcan,Women,SP,JudgeNo.5,Ms.,TaeRiLEEKOR,KOR
+2021,2021gpcan,Women,FS,JudgeNo.5,Ms.,TaeRiLEEKOR,KOR
+2021,2021gpcan,Women,SP,JudgeNo.6,Ms.,SaaraEHALTFIN,FIN
+2021,2021gpcan,Women,FS,JudgeNo.6,Ms.,SaaraEHALTFIN,FIN
+2021,2021gpcan,Women,SP,JudgeNo.7,Ms.,WeiSHICHN,CHN
+2021,2021gpcan,Women,FS,JudgeNo.7,Ms.,WeiSHICHN,CHN
+2021,2021gpcan,Women,SP,JudgeNo.8,Ms.,ElenaFOMINARUS,RUS
+2021,2021gpcan,Women,FS,JudgeNo.8,Ms.,ElenaFOMINARUS,RUS
+2021,2021gpcan,Women,SP,JudgeNo.9,Ms.,RitsukoHORIUCHIJPN,JPN
+2021,2021gpcan,Women,FS,JudgeNo.9,Ms.,RitsukoHORIUCHIJPN,JPN
+2021,2021gpcan,Women,SP,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Women,FS,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021gpcan,Women,SP,ReplayOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021gpcan,Women,FS,ReplayOperator,Ms.,AgnieszkaSWIDERSKAISU,ISU
+2021,2021wc,Ice Dance,SP,TechnicalController,Ms.,HalinaGORDONPOLTORAKISU,ISU
+2021,2021wc,Ice Dance,SP,TechnicalSpecialist,Mr.,GyörgyELEKISU,ISU
+2021,2021wc,Ice Dance,SP,AssistantTechnicalSpecialist,Ms.,AyakoHIGASHINOISU,ISU
+2021,2021wc,Ice Dance,SP,Referee,Ms.,HilarySELBYISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.1,Ms.,JuliaANDREEVAISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.2,Ms.,LaimuteKRAUZIENEISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.3,Mr.,DavidMUNOZISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.4,Ms.,TomieFUKUDOMEISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.5,Mr.,RolandMÄDERISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.6,Ms.,JenniferMASTISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.7,Mr.,FengHUANGISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.8,Mr.,MarcinKOZUBEKISU,ISU
+2021,2021wc,Ice Dance,SP,JudgeNo.9,Mr.,RonCONACHERISU,ISU
+2021,2021wc,Ice Dance,SP,DataOperator,Mr.,SoltanKOKOEVISU,ISU
+2021,2021wc,Ice Dance,SP,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Ice Dance,FS,TechnicalController,Ms.,HalinaGORDONPOLTORAKISU,ISU
+2021,2021wc,Ice Dance,FS,TechnicalSpecialist,Mr.,GyörgyELEKISU,ISU
+2021,2021wc,Ice Dance,FS,AssistantTechnicalSpecialist,Ms.,AyakoHIGASHINOISU,ISU
+2021,2021wc,Ice Dance,FS,Referee,Ms.,HilarySELBYISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.1,Mr.,RonCONACHERISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.2,Mr.,RolandMÄDERISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.3,Mr.,FengHUANGISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.4,Ms.,JenniferMASTISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.5,Mr.,DavidMUNOZISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.6,Ms.,JuliaANDREEVAISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.7,Ms.,LaimuteKRAUZIENEISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.8,Mr.,GarryHOPPEISU,ISU
+2021,2021wc,Ice Dance,FS,JudgeNo.9,Mr.,RonaldBEAUISU,ISU
+2021,2021wc,Ice Dance,FS,DataOperator,Mr.,SoltanKOKOEVISU,ISU
+2021,2021wc,Ice Dance,FS,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Ladies,SP,TechnicalController,Ms.,EmilieBILLOWISU,ISU
+2021,2021wc,Ladies,SP,TechnicalSpecialist,Ms.,VeraVANDECAVEYEISU,ISU
+2021,2021wc,Ladies,SP,AssistantTechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2021,2021wc,Ladies,SP,Referee,Mr.,FabioBIANCHETTIISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.1,Ms.,LenkaBOHUNICKAISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.2,Ms.,FrancoisedeRAPPARDISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.3,Ms.,PeggyGRAHAMISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.4,Ms.,ElisabethLOUESDONISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.5,Mr.,MassimoORLANDINIISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.6,Ms.,MarketaHORKLOVAISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.7,Ms.,KatarinaHENRIKSSONISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.8,Ms.,ElenaFOMINAISU,ISU
+2021,2021wc,Ladies,SP,JudgeNo.9,Ms.,TinekePOSNOISU,ISU
+2021,2021wc,Ladies,SP,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Ladies,SP,ReplayOperator,Mr.,SoltanKOKOEVISU,ISU
+2021,2021wc,Ladies,FS,TechnicalController,Ms.,EmilieBILLOWISU,ISU
+2021,2021wc,Ladies,FS,TechnicalSpecialist,Ms.,VeraVANDECAVEYEISU,ISU
+2021,2021wc,Ladies,FS,AssistantTechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2021,2021wc,Ladies,FS,Referee,Mr.,FabioBIANCHETTIISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.1,Ms.,DanCHENISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.2,Ms.,MarketaHORKLOVAISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.3,Ms.,KatarinaHENRIKSSONISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.4,Ms.,ElenaFOMINAISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.5,Mr.,MatjazKRUSECISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.6,Ms.,LenkaBOHUNICKAISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.7,Ms.,HelleLYNGBERGISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.8,Ms.,PeggyGRAHAMISU,ISU
+2021,2021wc,Ladies,FS,JudgeNo.9,Ms.,TinekePOSNOISU,ISU
+2021,2021wc,Ladies,FS,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Ladies,FS,ReplayOperator,Mr.,SoltanKOKOEVISU,ISU
+2021,2021wc,Men,SP,TechnicalController,Ms.,LeenaLAAKSONENISU,ISU
+2021,2021wc,Men,SP,TechnicalSpecialist,Mr.,KonstantinKOSTINISU,ISU
+2021,2021wc,Men,SP,AssistantTechnicalSpecialist,Mr.,FilipSTILLERBOROWICZISU,ISU
+2021,2021wc,Men,SP,Referee,Mr.,PhilippeMERIGUETISU,ISU
+2021,2021wc,Men,SP,JudgeNo.1,Ms.,LisaDAVIDSONISU,ISU
+2021,2021wc,Men,SP,JudgeNo.2,Ms.,UrsulaSTAHLISU,ISU
+2021,2021wc,Men,SP,JudgeNo.3,Ms.,IrynaMEDVEDIEVAISU,ISU
+2021,2021wc,Men,SP,JudgeNo.4,Ms.,PiaALHONENISU,ISU
+2021,2021wc,Men,SP,JudgeNo.5,Ms.,SalomeCHIGOGIDZEISU,ISU
+2021,2021wc,Men,SP,JudgeNo.6,Ms.,IngerANDERSSONISU,ISU
+2021,2021wc,Men,SP,JudgeNo.7,Ms.,ChristianeMILESISU,ISU
+2021,2021wc,Men,SP,JudgeNo.8,Mr.,SviatoslavBABENKOISU,ISU
+2021,2021wc,Men,SP,JudgeNo.9,Mr.,MiroslavMISURECISU,ISU
+2021,2021wc,Men,SP,DataOperator,Mr.,SoltanKOKOEVISU,ISU
+2021,2021wc,Men,SP,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Men,FS,TechnicalController,Ms.,LeenaLAAKSONENISU,ISU
+2021,2021wc,Men,FS,TechnicalSpecialist,Mr.,KonstantinKOSTINISU,ISU
+2021,2021wc,Men,FS,AssistantTechnicalSpecialist,Mr.,FilipSTILLERBOROWICZISU,ISU
+2021,2021wc,Men,FS,Referee,Mr.,PhilippeMERIGUETISU,ISU
+2021,2021wc,Men,FS,JudgeNo.1,Ms.,ChiheeRHEEISU,ISU
+2021,2021wc,Men,FS,JudgeNo.2,Ms.,IngerANDERSSONISU,ISU
+2021,2021wc,Men,FS,JudgeNo.3,Ms.,KristinaLUNDGRENISU,ISU
+2021,2021wc,Men,FS,JudgeNo.4,Mr.,MiroslavMISURECISU,ISU
+2021,2021wc,Men,FS,JudgeNo.5,Ms.,ChristianeMILESISU,ISU
+2021,2021wc,Men,FS,JudgeNo.6,Mr.,LudwigCZOCZEKISU,ISU
+2021,2021wc,Men,FS,JudgeNo.7,Ms.,SalomeCHIGOGIDZEISU,ISU
+2021,2021wc,Men,FS,JudgeNo.8,Mr.,SviatoslavBABENKOISU,ISU
+2021,2021wc,Men,FS,JudgeNo.9,Ms.,LisaDAVIDSONISU,ISU
+2021,2021wc,Men,FS,DataOperator,Mr.,SoltanKOKOEVISU,ISU
+2021,2021wc,Men,FS,ReplayOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Pairs,SP,TechnicalController,Ms.,VeraTAUCHMANOVAISU,ISU
+2021,2021wc,Pairs,SP,TechnicalSpecialist,Mr.,TroyGOLDSTEINISU,ISU
+2021,2021wc,Pairs,SP,AssistantTechnicalSpecialist,Mr.,SarkisTEWANIANISU,ISU
+2021,2021wc,Pairs,SP,Referee,Ms.,YukikoOKABEISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.1,Ms.,StanislavaSMIDOVAISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.2,Ms.,OlgaKOZHEMYAKINAISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.3,Mr.,AnthonyLEROYISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.4,Ms.,MartaOLOZAGARREISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.5,Ms.,AlmilaARIKANSARBANOGLUISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.6,Ms.,WendyENZMANNISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.7,Ms.,KerstinKIMMINUSISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.8,Ms.,AndreaDERBYISU,ISU
+2021,2021wc,Pairs,SP,JudgeNo.9,Ms.,YuWANGISU,ISU
+2021,2021wc,Pairs,SP,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Pairs,SP,ReplayOperator,Mr.,SoltanKOKOEVISU,ISU
+2021,2021wc,Pairs,FS,TechnicalController,Ms.,VeraTAUCHMANOVAISU,ISU
+2021,2021wc,Pairs,FS,TechnicalSpecialist,Mr.,TroyGOLDSTEINISU,ISU
+2021,2021wc,Pairs,FS,AssistantTechnicalSpecialist,Mr.,SarkisTEWANIANISU,ISU
+2021,2021wc,Pairs,FS,Referee,Ms.,YukikoOKABEISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.1,Ms.,OlgaKOZHEMYAKINAISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.2,Ms.,YuWANGISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.3,Ms.,ClaudiaBRAMBATIISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.4,Ms.,KatharinaRAUCHISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.5,Ms.,AgitaABELEISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.6,Ms.,AlmilaARIKANSARBANOGLUISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.7,Ms.,KerstinKIMMINUSISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.8,Mr.,JosipCEROVACISU,ISU
+2021,2021wc,Pairs,FS,JudgeNo.9,Ms.,WendyENZMANNISU,ISU
+2021,2021wc,Pairs,FS,DataOperator,Mr.,DavidSANTEEISU,ISU
+2021,2021wc,Pairs,FS,ReplayOperator,Mr.,SoltanKOKOEVISU,ISU
+2022,2022gpf,Ice Dance,SP,TechnicalController,Ms.,HilarySELBYISU,ISU
+2022,2022gpf,Ice Dance,FS,TechnicalController,Ms.,HilarySELBYISU,ISU
+2022,2022gpf,Ice Dance,SP,TechnicalSpecialist,Ms.,Marie-LouiseGIJTENBEEKISU,ISU
+2022,2022gpf,Ice Dance,FS,TechnicalSpecialist,Ms.,Marie-LouiseGIJTENBEEKISU,ISU
+2022,2022gpf,Ice Dance,SP,TechnicalSpecialist,Ms.,FrancescaFERMIISU,ISU
+2022,2022gpf,Ice Dance,FS,TechnicalSpecialist,Ms.,FrancescaFERMIISU,ISU
+2022,2022gpf,Ice Dance,SP,Referee,Ms.,JenniferMASTISU,ISU
+2022,2022gpf,Ice Dance,FS,Referee,Ms.,JenniferMASTISU,ISU
+2022,2022gpf,Ice Dance,SP,JudgeNo.1,Ms.,VirpiKUNNAS-HELMINENFIN,FIN
+2022,2022gpf,Ice Dance,FS,JudgeNo.1,Ms.,VirpiKUNNAS-HELMINENFIN,FIN
+2022,2022gpf,Ice Dance,SP,JudgeNo.2,Ms.,MichelaCESAROITA,ITA
+2022,2022gpf,Ice Dance,FS,JudgeNo.2,Ms.,MichelaCESAROITA,ITA
+2022,2022gpf,Ice Dance,SP,JudgeNo.3,Ms.,ChristineHURTHFRA,FRA
+2022,2022gpf,Ice Dance,FS,JudgeNo.3,Ms.,ChristineHURTHFRA,FRA
+2022,2022gpf,Ice Dance,SP,JudgeNo.4,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Ice Dance,FS,JudgeNo.4,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Ice Dance,SP,JudgeNo.5,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Ice Dance,FS,JudgeNo.5,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Ice Dance,SP,JudgeNo.6,Ms.,LucyLEONARDGBR,GBR
+2022,2022gpf,Ice Dance,FS,JudgeNo.6,Ms.,LucyLEONARDGBR,GBR
+2022,2022gpf,Ice Dance,SP,JudgeNo.7,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Ice Dance,FS,JudgeNo.7,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Ice Dance,SP,JudgeNo.8,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Ice Dance,FS,JudgeNo.8,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Ice Dance,SP,JudgeNo.9,Mr.,RichardDALLEYUSA,USA
+2022,2022gpf,Ice Dance,FS,JudgeNo.9,Mr.,RichardDALLEYUSA,USA
+2022,2022gpf,Ice Dance,SP,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Ice Dance,FS,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Ice Dance,SP,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Ice Dance,FS,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Ice Dance,SP,TechnicalController,Ms.,HilarySELBYISU,ISU
+2022,2022gpf,Junior Ice Dance,FS,TechnicalController,Ms.,HilarySELBYISU,ISU
+2022,2022gpf,Junior Ice Dance,SP,TechnicalSpecialist,Ms.,Marie-LouiseGIJTENBEEKISU,ISU
+2022,2022gpf,Junior Ice Dance,FS,TechnicalSpecialist,Ms.,Marie-LouiseGIJTENBEEKISU,ISU
+2022,2022gpf,Junior Ice Dance,SP,TechnicalSpecialist,Ms.,FrancescaFERMIISU,ISU
+2022,2022gpf,Junior Ice Dance,FS,TechnicalSpecialist,Ms.,FrancescaFERMIISU,ISU
+2022,2022gpf,Junior Ice Dance,SP,Referee,Ms.,JenniferMASTISU,ISU
+2022,2022gpf,Junior Ice Dance,FS,Referee,Ms.,JenniferMASTISU,ISU
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.1,Mr.,RichardDALLEYUSA,USA
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.1,Mr.,RichardDALLEYUSA,USA
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.2,Ms.,ChristineHURTHFRA,FRA
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.2,Ms.,ChristineHURTHFRA,FRA
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.3,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.3,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.4,Ms.,MichelaCESAROITA,ITA
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.4,Ms.,MichelaCESAROITA,ITA
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.5,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.5,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.6,Ms.,LucyLEONARDGBR,GBR
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.6,Ms.,LucyLEONARDGBR,GBR
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.7,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.7,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.8,Ms.,VirpiKUNNAS-HELMINENFIN,FIN
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.8,Ms.,VirpiKUNNAS-HELMINENFIN,FIN
+2022,2022gpf,Junior Ice Dance,SP,JudgeNo.9,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Junior Ice Dance,FS,JudgeNo.9,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Junior Ice Dance,SP,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Ice Dance,FS,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Ice Dance,SP,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Ice Dance,FS,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Men,SP,TechnicalController,Ms.,LeenaLAAKSONENISU,ISU
+2022,2022gpf,Junior Men,FS,TechnicalController,Ms.,LeenaLAAKSONENISU,ISU
+2022,2022gpf,Junior Men,SP,TechnicalSpecialist,Ms.,HeatherCelestineLEHNERTISU,ISU
+2022,2022gpf,Junior Men,FS,TechnicalSpecialist,Ms.,HeatherCelestineLEHNERTISU,ISU
+2022,2022gpf,Junior Men,SP,TechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2022,2022gpf,Junior Men,FS,TechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2022,2022gpf,Junior Men,SP,Referee,Ms.,LeannaCARONISU,ISU
+2022,2022gpf,Junior Men,FS,Referee,Ms.,LeannaCARONISU,ISU
+2022,2022gpf,Junior Men,SP,JudgeNo.1,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022gpf,Junior Men,FS,JudgeNo.1,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022gpf,Junior Men,SP,JudgeNo.2,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Junior Men,FS,JudgeNo.2,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Junior Men,SP,JudgeNo.3,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Junior Men,FS,JudgeNo.3,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Junior Men,SP,JudgeNo.4,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Junior Men,FS,JudgeNo.4,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Junior Men,SP,JudgeNo.5,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Junior Men,FS,JudgeNo.5,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Junior Men,SP,JudgeNo.6,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Junior Men,FS,JudgeNo.6,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Junior Men,SP,JudgeNo.7,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Junior Men,FS,JudgeNo.7,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Junior Men,SP,JudgeNo.8,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Junior Men,FS,JudgeNo.8,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Junior Men,SP,JudgeNo.9,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Junior Men,FS,JudgeNo.9,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Junior Men,SP,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Men,FS,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Men,SP,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Men,FS,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Pairs,SP,TechnicalController,Mr.,JeroenPRINSISU,ISU
+2022,2022gpf,Junior Pairs,FS,TechnicalController,Mr.,JeroenPRINSISU,ISU
+2022,2022gpf,Junior Pairs,SP,TechnicalSpecialist,Mr.,SimonBRIGGSISU,ISU
+2022,2022gpf,Junior Pairs,FS,TechnicalSpecialist,Mr.,SimonBRIGGSISU,ISU
+2022,2022gpf,Junior Pairs,SP,TechnicalSpecialist,Ms.,VeroniqueFLEURYISU,ISU
+2022,2022gpf,Junior Pairs,FS,TechnicalSpecialist,Ms.,VeroniqueFLEURYISU,ISU
+2022,2022gpf,Junior Pairs,SP,Referee,Ms.,AnielaHEBEL-SZMAKISU,ISU
+2022,2022gpf,Junior Pairs,FS,Referee,Ms.,AnielaHEBEL-SZMAKISU,ISU
+2022,2022gpf,Junior Pairs,SP,JudgeNo.1,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Junior Pairs,FS,JudgeNo.1,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Junior Pairs,SP,JudgeNo.2,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Junior Pairs,FS,JudgeNo.2,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Junior Pairs,SP,JudgeNo.3,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Junior Pairs,FS,JudgeNo.3,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Junior Pairs,SP,JudgeNo.4,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Junior Pairs,FS,JudgeNo.4,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Junior Pairs,SP,JudgeNo.5,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Junior Pairs,FS,JudgeNo.5,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Junior Pairs,SP,JudgeNo.6,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022gpf,Junior Pairs,FS,JudgeNo.6,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022gpf,Junior Pairs,SP,JudgeNo.7,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Junior Pairs,FS,JudgeNo.7,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Junior Pairs,SP,JudgeNo.8,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Junior Pairs,FS,JudgeNo.8,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Junior Pairs,SP,JudgeNo.9,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Junior Pairs,FS,JudgeNo.9,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Junior Pairs,SP,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Pairs,FS,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Pairs,SP,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Pairs,FS,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Women,SP,TechnicalController,Ms.,RaffaellaLOCATELLIISU,ISU
+2022,2022gpf,Junior Women,FS,TechnicalController,Ms.,RaffaellaLOCATELLIISU,ISU
+2022,2022gpf,Junior Women,SP,TechnicalSpecialist,Ms.,VanessaGUSMEROLIISU,ISU
+2022,2022gpf,Junior Women,FS,TechnicalSpecialist,Ms.,VanessaGUSMEROLIISU,ISU
+2022,2022gpf,Junior Women,SP,TechnicalSpecialist,Ms.,NildaNancyGARCIAVILLARREALISU,ISU
+2022,2022gpf,Junior Women,FS,TechnicalSpecialist,Ms.,NildaNancyGARCIAVILLARREALISU,ISU
+2022,2022gpf,Junior Women,SP,Referee,Mr.,RobertROSENBLUTHISU,ISU
+2022,2022gpf,Junior Women,FS,Referee,Mr.,RobertROSENBLUTHISU,ISU
+2022,2022gpf,Junior Women,SP,JudgeNo.1,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Junior Women,FS,JudgeNo.1,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Junior Women,SP,JudgeNo.2,Mr.,WalterTOIGOITA,ITA
+2022,2022gpf,Junior Women,FS,JudgeNo.2,Mr.,WalterTOIGOITA,ITA
+2022,2022gpf,Junior Women,SP,JudgeNo.3,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Junior Women,FS,JudgeNo.3,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Junior Women,SP,JudgeNo.4,Ms.,AyumiONOJPN,JPN
+2022,2022gpf,Junior Women,FS,JudgeNo.4,Ms.,AyumiONOJPN,JPN
+2022,2022gpf,Junior Women,SP,JudgeNo.5,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Junior Women,FS,JudgeNo.5,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Junior Women,SP,JudgeNo.6,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Junior Women,FS,JudgeNo.6,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Junior Women,SP,JudgeNo.7,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Junior Women,FS,JudgeNo.7,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Junior Women,SP,JudgeNo.8,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Junior Women,FS,JudgeNo.8,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Junior Women,SP,JudgeNo.9,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Junior Women,FS,JudgeNo.9,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Junior Women,SP,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Women,FS,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Junior Women,SP,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Junior Women,FS,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Men,SP,TechnicalController,Ms.,LeenaLAAKSONENISU,ISU
+2022,2022gpf,Men,FS,TechnicalController,Ms.,LeenaLAAKSONENISU,ISU
+2022,2022gpf,Men,SP,TechnicalSpecialist,Ms.,HeatherCelestineLEHNERTISU,ISU
+2022,2022gpf,Men,FS,TechnicalSpecialist,Ms.,HeatherCelestineLEHNERTISU,ISU
+2022,2022gpf,Men,SP,TechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2022,2022gpf,Men,FS,TechnicalSpecialist,Mr.,SandorGALAMBOSISU,ISU
+2022,2022gpf,Men,SP,Referee,Ms.,LeannaCARONISU,ISU
+2022,2022gpf,Men,FS,Referee,Ms.,LeannaCARONISU,ISU
+2022,2022gpf,Men,SP,JudgeNo.1,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Men,FS,JudgeNo.1,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Men,SP,JudgeNo.2,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Men,FS,JudgeNo.2,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Men,SP,JudgeNo.3,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Men,FS,JudgeNo.3,Mr.,RichardKOSINACZE,CZE
+2022,2022gpf,Men,SP,JudgeNo.4,Ms.,DeborahCURRIEUSA,USA
+2022,2022gpf,Men,FS,JudgeNo.4,Ms.,DeborahCURRIEUSA,USA
+2022,2022gpf,Men,SP,JudgeNo.5,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Men,FS,JudgeNo.5,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Men,SP,JudgeNo.6,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Men,FS,JudgeNo.6,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Men,SP,JudgeNo.7,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Men,FS,JudgeNo.7,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Men,SP,JudgeNo.8,Ms.,AyumiONOJPN,JPN
+2022,2022gpf,Men,FS,JudgeNo.8,Ms.,AyumiONOJPN,JPN
+2022,2022gpf,Men,SP,JudgeNo.9,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Men,FS,JudgeNo.9,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Men,SP,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Men,FS,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Men,SP,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Men,FS,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Pairs,SP,TechnicalController,Mr.,JeroenPRINSISU,ISU
+2022,2022gpf,Pairs,FS,TechnicalController,Mr.,JeroenPRINSISU,ISU
+2022,2022gpf,Pairs,SP,TechnicalSpecialist,Mr.,SimonBRIGGSISU,ISU
+2022,2022gpf,Pairs,FS,TechnicalSpecialist,Mr.,SimonBRIGGSISU,ISU
+2022,2022gpf,Pairs,SP,TechnicalSpecialist,Ms.,VeroniqueFLEURYISU,ISU
+2022,2022gpf,Pairs,FS,TechnicalSpecialist,Ms.,VeroniqueFLEURYISU,ISU
+2022,2022gpf,Pairs,SP,Referee,Ms.,AnielaHEBEL-SZMAKISU,ISU
+2022,2022gpf,Pairs,FS,Referee,Ms.,AnielaHEBEL-SZMAKISU,ISU
+2022,2022gpf,Pairs,SP,JudgeNo.1,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Pairs,FS,JudgeNo.1,Ms.,GloriaMORANDIITA,ITA
+2022,2022gpf,Pairs,SP,JudgeNo.2,Ms.,DeborahCURRIEUSA,USA
+2022,2022gpf,Pairs,FS,JudgeNo.2,Ms.,DeborahCURRIEUSA,USA
+2022,2022gpf,Pairs,SP,JudgeNo.3,Ms.,AyumiONOJPN,JPN
+2022,2022gpf,Pairs,FS,JudgeNo.3,Ms.,AyumiONOJPN,JPN
+2022,2022gpf,Pairs,SP,JudgeNo.4,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Pairs,FS,JudgeNo.4,Ms.,NataliaKRUGLOVAUKR,UKR
+2022,2022gpf,Pairs,SP,JudgeNo.5,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Pairs,FS,JudgeNo.5,Ms.,FlorenceVUYLSTEKERFRA,FRA
+2022,2022gpf,Pairs,SP,JudgeNo.6,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Pairs,FS,JudgeNo.6,Ms.,JaniceHUNTERCAN,CAN
+2022,2022gpf,Pairs,SP,JudgeNo.7,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Pairs,FS,JudgeNo.7,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Pairs,SP,JudgeNo.8,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Pairs,FS,JudgeNo.8,Mr.,MatthewMILLERGBR,GBR
+2022,2022gpf,Pairs,SP,JudgeNo.9,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Pairs,FS,JudgeNo.9,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Pairs,SP,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Pairs,FS,DataOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Pairs,SP,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Pairs,FS,ReplayOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Women,SP,TechnicalController,Ms.,RaffaellaLOCATELLIISU,ISU
+2022,2022gpf,Women,FS,TechnicalController,Ms.,RaffaellaLOCATELLIISU,ISU
+2022,2022gpf,Women,SP,TechnicalSpecialist,Ms.,VanessaGUSMEROLIISU,ISU
+2022,2022gpf,Women,FS,TechnicalSpecialist,Ms.,VanessaGUSMEROLIISU,ISU
+2022,2022gpf,Women,SP,TechnicalSpecialist,Ms.,NildaNancyGARCIAVILLARREALISU,ISU
+2022,2022gpf,Women,FS,TechnicalSpecialist,Ms.,NildaNancyGARCIAVILLARREALISU,ISU
+2022,2022gpf,Women,SP,Referee,Mr.,RobertROSENBLUTHISU,ISU
+2022,2022gpf,Women,FS,Referee,Mr.,RobertROSENBLUTHISU,ISU
+2022,2022gpf,Women,SP,JudgeNo.1,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Women,FS,JudgeNo.1,Ms.,SoYoungANKOR,KOR
+2022,2022gpf,Women,SP,JudgeNo.2,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Women,FS,JudgeNo.2,Mr.,HalMARRONUSA,USA
+2022,2022gpf,Women,SP,JudgeNo.3,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022gpf,Women,FS,JudgeNo.3,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022gpf,Women,SP,JudgeNo.4,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Women,FS,JudgeNo.4,Ms.,KerstinKIMMINUSGER,GER
+2022,2022gpf,Women,SP,JudgeNo.5,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Women,FS,JudgeNo.5,Ms.,NicoleLEBLANC-RICHARDCAN,CAN
+2022,2022gpf,Women,SP,JudgeNo.6,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Women,FS,JudgeNo.6,Ms.,LeahBATESAUS,AUS
+2022,2022gpf,Women,SP,JudgeNo.7,Mr.,WalterTOIGOITA,ITA
+2022,2022gpf,Women,FS,JudgeNo.7,Mr.,WalterTOIGOITA,ITA
+2022,2022gpf,Women,SP,JudgeNo.8,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Women,FS,JudgeNo.8,Ms.,TarjaRISTANENFIN,FIN
+2022,2022gpf,Women,SP,JudgeNo.9,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Women,FS,JudgeNo.9,Ms.,FrancoisedeRAPPARDBEL,BEL
+2022,2022gpf,Women,SP,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Women,FS,DataOperator,Mr.,FredericAVOTISU,ISU
+2022,2022gpf,Women,SP,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022gpf,Women,FS,ReplayOperator,Ms.,SunnaBjorkMOGENSENISU,ISU
+2022,2022jgpcze,Junior Ice Dance,SP,TechnicalController,Mr.,HalMARRONISU,ISU
+2022,2022jgpcze,Junior Ice Dance,FS,TechnicalController,Mr.,HalMARRONISU,ISU
+2022,2022jgpcze,Junior Ice Dance,SP,TechnicalSpecialist,Ms.,SlavkaGRINCOVAISU,ISU
+2022,2022jgpcze,Junior Ice Dance,FS,TechnicalSpecialist,Ms.,SlavkaGRINCOVAISU,ISU
+2022,2022jgpcze,Junior Ice Dance,SP,TechnicalSpecialist,Ms.,Pia-MariaGUSTAFSSONISU,ISU
+2022,2022jgpcze,Junior Ice Dance,FS,TechnicalSpecialist,Ms.,Pia-MariaGUSTAFSSONISU,ISU
+2022,2022jgpcze,Junior Ice Dance,SP,Referee,Mr.,MassimoORLANDINIISU,ISU
+2022,2022jgpcze,Junior Ice Dance,FS,Referee,Mr.,MassimoORLANDINIISU,ISU
+2022,2022jgpcze,Junior Ice Dance,SP,JudgeNo.1,Mr.,RichardKOSINACZE,CZE
+2022,2022jgpcze,Junior Ice Dance,FS,JudgeNo.1,Mr.,RichardKOSINACZE,CZE
+2022,2022jgpcze,Junior Ice Dance,SP,JudgeNo.2,Ms.,ElisabethWEISERAUT,AUT
+2022,2022jgpcze,Junior Ice Dance,FS,JudgeNo.2,Ms.,ElisabethWEISERAUT,AUT
+2022,2022jgpcze,Junior Ice Dance,SP,JudgeNo.3,Ms.,ElyseMATSUMOTOUSA,USA
+2022,2022jgpcze,Junior Ice Dance,FS,JudgeNo.3,Ms.,ElyseMATSUMOTOUSA,USA
+2022,2022jgpcze,Junior Ice Dance,SP,JudgeNo.4,Ms.,EricaTOPOLSKICAN,CAN
+2022,2022jgpcze,Junior Ice Dance,FS,JudgeNo.4,Ms.,EricaTOPOLSKICAN,CAN
+2022,2022jgpcze,Junior Ice Dance,SP,JudgeNo.5,Ms.,IrynaMEDVEDIEVAUKR,UKR
+2022,2022jgpcze,Junior Ice Dance,FS,JudgeNo.5,Ms.,IrynaMEDVEDIEVAUKR,UKR
+2022,2022jgpcze,Junior Ice Dance,SP,JudgeNo.6,Mr.,JeroenPRINSNED,NED
+2022,2022jgpcze,Junior Ice Dance,FS,JudgeNo.6,Mr.,JeroenPRINSNED,NED
+2022,2022jgpcze,Junior Ice Dance,SP,DataOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Ice Dance,FS,DataOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Ice Dance,SP,ReplayOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2022,2022jgpcze,Junior Ice Dance,FS,ReplayOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2022,2022jgpcze,Junior Men,SP,TechnicalController,Ms.,ChiheeRHEEISU,ISU
+2022,2022jgpcze,Junior Men,SP,TechnicalSpecialist,Mr.,MakotoOKAZAKIISU,ISU
+2022,2022jgpcze,Junior Men,SP,TechnicalSpecialist,Ms.,CathrineHESTENESISU,ISU
+2022,2022jgpcze,Junior Men,SP,Referee,Ms.,WendyENZMANNISU,ISU
+2022,2022jgpcze,Junior Men,SP,JudgeNo.1,Ms.,TerezBAGOHUN,HUN
+2022,2022jgpcze,Junior Men,SP,JudgeNo.2,Ms.,AnitaBERNASCONISUI,SUI
+2022,2022jgpcze,Junior Men,SP,JudgeNo.3,Ms.,JodiABBOTTCAN,CAN
+2022,2022jgpcze,Junior Men,SP,JudgeNo.4,Ms.,KatarinaHENRIKSSONSWE,SWE
+2022,2022jgpcze,Junior Men,SP,JudgeNo.5,Ms.,SooKyungLEEKOR,KOR
+2022,2022jgpcze,Junior Men,SP,JudgeNo.6,Mr.,MartinOSMERACZE,CZE
+2022,2022jgpcze,Junior Men,SP,JudgeNo.7,Ms.,RuiZHAOCHN,CHN
+2022,2022jgpcze,Junior Men,SP,JudgeNo.8,Ms.,MiriamPALANGEITA,ITA
+2022,2022jgpcze,Junior Men,SP,JudgeNo.9,Ms.,JoannaDAROS-PAWLYTAPOL,POL
+2022,2022jgpcze,Junior Men,SP,DataOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2022,2022jgpcze,Junior Men,SP,ReplayOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Men,FS,TechnicalController,Ms.,ChiheeRHEEISU,ISU
+2022,2022jgpcze,Junior Men,FS,TechnicalSpecialist,Mr.,MakotoOKAZAKIISU,ISU
+2022,2022jgpcze,Junior Men,FS,TechnicalSpecialist,Ms.,CathrineHESTENESISU,ISU
+2022,2022jgpcze,Junior Men,FS,Referee,Ms.,WendyENZMANNISU,ISU
+2022,2022jgpcze,Junior Men,FS,JudgeNo.1,Ms.,AnitaBERNASCONISUI,SUI
+2022,2022jgpcze,Junior Men,FS,JudgeNo.2,Ms.,KatarinaHENRIKSSONSWE,SWE
+2022,2022jgpcze,Junior Men,FS,JudgeNo.3,Ms.,TerezBAGOHUN,HUN
+2022,2022jgpcze,Junior Men,FS,JudgeNo.4,Ms.,MiriamPALANGEITA,ITA
+2022,2022jgpcze,Junior Men,FS,JudgeNo.5,Ms.,SooKyungLEEKOR,KOR
+2022,2022jgpcze,Junior Men,FS,JudgeNo.6,Mr.,FalkoKIRSTENGER,GER
+2022,2022jgpcze,Junior Men,FS,JudgeNo.7,Ms.,RuiZHAOCHN,CHN
+2022,2022jgpcze,Junior Men,FS,JudgeNo.8,Mr.,MartinOSMERACZE,CZE
+2022,2022jgpcze,Junior Men,FS,JudgeNo.9,Ms.,JoannaDAROS-PAWLYTAPOL,POL
+2022,2022jgpcze,Junior Men,FS,DataOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2022,2022jgpcze,Junior Men,FS,ReplayOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Pair,SP,TechnicalController,Ms.,VeraTAUCHMANOVAISU,ISU
+2022,2022jgpcze,Junior Pair,FS,TechnicalController,Ms.,VeraTAUCHMANOVAISU,ISU
+2022,2022jgpcze,Junior Pair,SP,TechnicalSpecialist,Mr.,ArtemKNYAZEVISU,ISU
+2022,2022jgpcze,Junior Pair,FS,TechnicalSpecialist,Mr.,ArtemKNYAZEVISU,ISU
+2022,2022jgpcze,Junior Pair,SP,TechnicalSpecialist,Ms.,IvanaJAKUPCEVICMARINKOVICISU,ISU
+2022,2022jgpcze,Junior Pair,FS,TechnicalSpecialist,Ms.,IvanaJAKUPCEVICMARINKOVICISU,ISU
+2022,2022jgpcze,Junior Pair,SP,Referee,Mr.,DanielDELFAISU,ISU
+2022,2022jgpcze,Junior Pair,FS,Referee,Mr.,DanielDELFAISU,ISU
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.1,Mr.,FalkoKIRSTENGER,GER
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.1,Mr.,FalkoKIRSTENGER,GER
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.2,Ms.,AnuSORMUNENFIN,FIN
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.2,Ms.,AnuSORMUNENFIN,FIN
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.3,Ms.,JodiABBOTTCAN,CAN
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.3,Ms.,JodiABBOTTCAN,CAN
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.4,Ms.,HallaBjorgSIGURTHORSDOTTIRISL,ISL
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.4,Ms.,HallaBjorgSIGURTHORSDOTTIRISL,ISL
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.5,Ms.,StanislavaSMIDOVACZE,CZE
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.5,Ms.,StanislavaSMIDOVACZE,CZE
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.6,Mr.,TobiasSTEINDLAUT,AUT
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.6,Mr.,TobiasSTEINDLAUT,AUT
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.7,Mr.,LarryMONDSCHEINUSA,USA
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.7,Mr.,LarryMONDSCHEINUSA,USA
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.8,Ms.,YukoOGAWAJPN,JPN
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.8,Ms.,YukoOGAWAJPN,JPN
+2022,2022jgpcze,Junior Pair,SP,JudgeNo.9,Mr.,StephaneMAITROTFRA,FRA
+2022,2022jgpcze,Junior Pair,FS,JudgeNo.9,Mr.,StephaneMAITROTFRA,FRA
+2022,2022jgpcze,Junior Pair,SP,DataOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2022,2022jgpcze,Junior Pair,FS,DataOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2022,2022jgpcze,Junior Pair,SP,ReplayOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Pair,FS,ReplayOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Women,SP,TechnicalController,Mr.,AttilaSOOSISU,ISU
+2022,2022jgpcze,Junior Women,SP,TechnicalSpecialist,Ms.,LineKALDESTADISU,ISU
+2022,2022jgpcze,Junior Women,SP,TechnicalSpecialist,Mr.,RaviWALIAISU,ISU
+2022,2022jgpcze,Junior Women,SP,Referee,Ms.,ElisabethBINDERISU,ISU
+2022,2022jgpcze,Junior Women,SP,JudgeNo.1,Ms.,MiluseSAFRANKOVACZE,CZE
+2022,2022jgpcze,Junior Women,SP,JudgeNo.2,Ms.,HallaBjorgSIGURTHORSDOTTIRISL,ISL
+2022,2022jgpcze,Junior Women,SP,JudgeNo.3,Ms.,AnuSORMUNENFIN,FIN
+2022,2022jgpcze,Junior Women,SP,JudgeNo.4,Mr.,LarryMONDSCHEINUSA,USA
+2022,2022jgpcze,Junior Women,SP,JudgeNo.5,Mr.,TobiasSTEINDLAUT,AUT
+2022,2022jgpcze,Junior Women,SP,JudgeNo.6,Ms.,SashaMARTINEZMEX,MEX
+2022,2022jgpcze,Junior Women,SP,JudgeNo.7,Mr.,JeroenPRINSNED,NED
+2022,2022jgpcze,Junior Women,SP,JudgeNo.8,Ms.,HanaBASOVASVK,SVK
+2022,2022jgpcze,Junior Women,SP,JudgeNo.9,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022jgpcze,Junior Women,SP,DataOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Women,SP,ReplayOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2022,2022jgpcze,Junior Women,FS,TechnicalController,Mr.,AttilaSOOSISU,ISU
+2022,2022jgpcze,Junior Women,FS,TechnicalSpecialist,Ms.,LineKALDESTADISU,ISU
+2022,2022jgpcze,Junior Women,FS,TechnicalSpecialist,Mr.,RaviWALIAISU,ISU
+2022,2022jgpcze,Junior Women,FS,Referee,Ms.,ElisabethBINDERISU,ISU
+2022,2022jgpcze,Junior Women,FS,JudgeNo.1,Ms.,EricaTOPOLSKICAN,CAN
+2022,2022jgpcze,Junior Women,FS,JudgeNo.2,Mr.,TobiasSTEINDLAUT,AUT
+2022,2022jgpcze,Junior Women,FS,JudgeNo.3,Ms.,AnuSORMUNENFIN,FIN
+2022,2022jgpcze,Junior Women,FS,JudgeNo.4,Ms.,HanaBASOVASVK,SVK
+2022,2022jgpcze,Junior Women,FS,JudgeNo.5,Ms.,HallaBjorgSIGURTHORSDOTTIRISL,ISL
+2022,2022jgpcze,Junior Women,FS,JudgeNo.6,Ms.,SashaMARTINEZMEX,MEX
+2022,2022jgpcze,Junior Women,FS,JudgeNo.7,Ms.,MasakoKUBOTAJPN,JPN
+2022,2022jgpcze,Junior Women,FS,JudgeNo.8,Mr.,JeroenPRINSNED,NED
+2022,2022jgpcze,Junior Women,FS,JudgeNo.9,Ms.,MiluseSAFRANKOVACZE,CZE
+2022,2022jgpcze,Junior Women,FS,DataOperator,Ms.,TheresaKATZLINGERISU,ISU
+2022,2022jgpcze,Junior Women,FS,ReplayOperator,Ms.,WandaSTANKOVIANSKAISU,ISU
+2023,2023ec,Ice Dance,SP,TechnicalController,Mr.,ShawnRETTSTATTISU,ISU
+2023,2023ec,Ice Dance,SP,TechnicalSpecialist,Ms.,MarieBOWNESSISU,ISU
+2023,2023ec,Ice Dance,SP,TechnicalSpecialist,Ms.,JoannaBUDNER-SZUMANISU,ISU
+2023,2023ec,Ice Dance,SP,Referee,Mr.,CsabaBALINTISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.1,Ms.,JezabelDABOUISISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.2,Ms.,MartaOLOZAGARREISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.3,Mr.,MassimoORLANDINIISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.4,Ms.,LarissaSHULJATEVAISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.5,Mr.,YuryKLIUSHNIKOVISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.6,Mr.,SzilardTOTHISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.7,Mr.,PatrikBRECHTISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.8,Mr.,MarcinKOZUBEKISU,ISU
+2023,2023ec,Ice Dance,SP,JudgeNo.9,Ms.,LaimuteKRAUZIENEISU,ISU
+2023,2023ec,Ice Dance,SP,DataOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Ice Dance,SP,ReplayOperator,Mr.,MartinPAULMICHLISU,ISU
+2023,2023ec,Ice Dance,FS,TechnicalController,Mr.,ShawnRETTSTATTISU,ISU
+2023,2023ec,Ice Dance,FS,TechnicalSpecialist,Ms.,MarieBOWNESSISU,ISU
+2023,2023ec,Ice Dance,FS,TechnicalSpecialist,Ms.,JoannaBUDNER-SZUMANISU,ISU
+2023,2023ec,Ice Dance,FS,Referee,Mr.,CsabaBALINTISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.1,Ms.,MartaOLOZAGARREISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.2,Mr.,MassimoORLANDINIISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.3,Mr.,SzilardTOTHISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.4,Mr.,ChristianBAUMANNISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.5,Mr.,MiroslavMISURECISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.6,Mr.,JeroenPRINSISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.7,Mr.,StephenFERNANDEZISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.8,Ms.,LarissaSHULJATEVAISU,ISU
+2023,2023ec,Ice Dance,FS,JudgeNo.9,Ms.,JezabelDABOUISISU,ISU
+2023,2023ec,Ice Dance,FS,DataOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Ice Dance,FS,ReplayOperator,Mr.,MartinPAULMICHLISU,ISU
+2023,2023ec,Men,SP,TechnicalController,Ms.,YukikoOKABEISU,ISU
+2023,2023ec,Men,SP,TechnicalSpecialist,Ms.,VeraVANDECAVEYEISU,ISU
+2023,2023ec,Men,SP,TechnicalSpecialist,Mr.,FilipSTILLERBOROWICZISU,ISU
+2023,2023ec,Men,SP,Referee,Mr.,PhilippeMERIGUETISU,ISU
+2023,2023ec,Men,SP,JudgeNo.1,Ms.,TatianaYORDANOVAISU,ISU
+2023,2023ec,Men,SP,JudgeNo.2,Ms.,CarmenLAUNISU,ISU
+2023,2023ec,Men,SP,JudgeNo.3,Ms.,AnielaHEBEL-SZMAKISU,ISU
+2023,2023ec,Men,SP,JudgeNo.4,Mr.,AllanBOEHMISU,ISU
+2023,2023ec,Men,SP,JudgeNo.5,Ms.,AgitaABELEISU,ISU
+2023,2023ec,Men,SP,JudgeNo.6,Ms.,UrsulaSTAHLISU,ISU
+2023,2023ec,Men,SP,JudgeNo.7,Ms.,ZannaKULIKISU,ISU
+2023,2023ec,Men,SP,JudgeNo.8,Mr.,JosipCEROVACISU,ISU
+2023,2023ec,Men,SP,JudgeNo.9,Ms.,EbruANILDIISU,ISU
+2023,2023ec,Men,SP,DataOperator,Mr.,MartinPAULMICHLISU,ISU
+2023,2023ec,Men,SP,ReplayOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Men,FS,TechnicalController,Ms.,YukikoOKABEISU,ISU
+2023,2023ec,Men,FS,TechnicalSpecialist,Ms.,VeraVANDECAVEYEISU,ISU
+2023,2023ec,Men,FS,TechnicalSpecialist,Mr.,FilipSTILLERBOROWICZISU,ISU
+2023,2023ec,Men,FS,Referee,Mr.,PhilippeMERIGUETISU,ISU
+2023,2023ec,Men,FS,JudgeNo.1,Ms.,UrsulaSTAHLISU,ISU
+2023,2023ec,Men,FS,JudgeNo.2,Ms.,RaffaellaLOCATELLIISU,ISU
+2023,2023ec,Men,FS,JudgeNo.3,Mr.,AttilaSOOSISU,ISU
+2023,2023ec,Men,FS,JudgeNo.4,Ms.,AnielaHEBEL-SZMAKISU,ISU
+2023,2023ec,Men,FS,JudgeNo.5,Ms.,LisaDAVIDSONISU,ISU
+2023,2023ec,Men,FS,JudgeNo.6,Ms.,MarjoKANKAANRANTAISU,ISU
+2023,2023ec,Men,FS,JudgeNo.7,Ms.,AgitaABELEISU,ISU
+2023,2023ec,Men,FS,JudgeNo.8,Ms.,ZannaKULIKISU,ISU
+2023,2023ec,Men,FS,JudgeNo.9,Ms.,TatianaYORDANOVAISU,ISU
+2023,2023ec,Men,FS,DataOperator,Mr.,MartinPAULMICHLISU,ISU
+2023,2023ec,Men,FS,ReplayOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Pairs,SP,TechnicalController,Mr.,FabioBIANCHETTIISU,ISU
+2023,2023ec,Pairs,SP,TechnicalSpecialist,Mr.,SarkisTEWANIANISU,ISU
+2023,2023ec,Pairs,SP,TechnicalSpecialist,Ms.,DanaGRAHAMISU,ISU
+2023,2023ec,Pairs,SP,Referee,Mr.,PekkaLESKINENISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.1,Ms.,SandaDUBRAVCICSIMUNJAKISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.2,Ms.,NataliaKRUGLOVAISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.3,Ms.,LailaDAVIDSSONISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.4,Ms.,KatalinBALCZOISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.5,Ms.,ClaudiaBRAMBATIISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.6,Ms.,VeraTAUCHMANOVAISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.7,Ms.,KerstinKIMMINUSISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.8,Ms.,PiaALHONENISU,ISU
+2023,2023ec,Pairs,SP,JudgeNo.9,Ms.,TinekePOSNOISU,ISU
+2023,2023ec,Pairs,SP,DataOperator,Mr.,MartinPAULMICHLISU,ISU
+2023,2023ec,Pairs,SP,ReplayOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Pairs,FS,TechnicalController,Mr.,FabioBIANCHETTIISU,ISU
+2023,2023ec,Pairs,FS,TechnicalSpecialist,Mr.,SarkisTEWANIANISU,ISU
+2023,2023ec,Pairs,FS,TechnicalSpecialist,Ms.,DanaGRAHAMISU,ISU
+2023,2023ec,Pairs,FS,Referee,Mr.,PekkaLESKINENISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.1,Ms.,MargaretWORSFOLDISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.2,Ms.,ClaudiaBRAMBATIISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.3,Ms.,SandaDUBRAVCICSIMUNJAKISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.4,Ms.,PiaALHONENISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.5,Ms.,TinekePOSNOISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.6,Ms.,VeraTAUCHMANOVAISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.7,Mr.,DanielDELFAISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.8,Ms.,KerstinKIMMINUSISU,ISU
+2023,2023ec,Pairs,FS,JudgeNo.9,Ms.,LoneVILLEFRANCEISU,ISU
+2023,2023ec,Pairs,FS,DataOperator,Mr.,MartinPAULMICHLISU,ISU
+2023,2023ec,Pairs,FS,ReplayOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Women,SP,TechnicalController,Ms.,LiseRostoJENSENISU,ISU
+2023,2023ec,Women,SP,TechnicalSpecialist,Ms.,MerjaHUTTUNENISU,ISU
+2023,2023ec,Women,SP,TechnicalSpecialist,Ms.,MasakoKAWAIISU,ISU
+2023,2023ec,Women,SP,Referee,Ms.,SaioaSANCHOISU,ISU
+2023,2023ec,Women,SP,JudgeNo.1,Mr.,KerstenBELLMANNISU,ISU
+2023,2023ec,Women,SP,JudgeNo.2,Ms.,VesselaPOPOVAISU,ISU
+2023,2023ec,Women,SP,JudgeNo.3,Ms.,ClaireSHEPHERDISU,ISU
+2023,2023ec,Women,SP,JudgeNo.4,Ms.,FrancoisedeRAPPARDISU,ISU
+2023,2023ec,Women,SP,JudgeNo.5,Ms.,AnnaKANTORISU,ISU
+2023,2023ec,Women,SP,JudgeNo.6,Mr.,TobiasSTEINDLISU,ISU
+2023,2023ec,Women,SP,JudgeNo.7,Ms.,SenemAHISKALISU,ISU
+2023,2023ec,Women,SP,JudgeNo.8,Ms.,ZsuzsannaVIKARNE-HOMOLYAISU,ISU
+2023,2023ec,Women,SP,JudgeNo.9,Ms.,HermiOTTEMANNISU,ISU
+2023,2023ec,Women,SP,DataOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Women,SP,ReplayOperator,Mr.,MartinPAULMICHLISU,ISU
+2023,2023ec,Women,FS,TechnicalController,Ms.,LiseRostoJENSENISU,ISU
+2023,2023ec,Women,FS,TechnicalSpecialist,Ms.,MerjaHUTTUNENISU,ISU
+2023,2023ec,Women,FS,TechnicalSpecialist,Ms.,MasakoKAWAIISU,ISU
+2023,2023ec,Women,FS,Referee,Ms.,SaioaSANCHOISU,ISU
+2023,2023ec,Women,FS,JudgeNo.1,Ms.,Kari-AnneOLSENISU,ISU
+2023,2023ec,Women,FS,JudgeNo.2,Ms.,KadiZVIRIKISU,ISU
+2023,2023ec,Women,FS,JudgeNo.3,Ms.,SalomeCHIGOGIDZEISU,ISU
+2023,2023ec,Women,FS,JudgeNo.4,Ms.,VesselaPOPOVAISU,ISU
+2023,2023ec,Women,FS,JudgeNo.5,Mr.,TobiasSTEINDLISU,ISU
+2023,2023ec,Women,FS,JudgeNo.6,Ms.,ZsuzsannaVIKARNE-HOMOLYAISU,ISU
+2023,2023ec,Women,FS,JudgeNo.7,Ms.,ClaireSHEPHERDISU,ISU
+2023,2023ec,Women,FS,JudgeNo.8,Ms.,AnnaKANTORISU,ISU
+2023,2023ec,Women,FS,JudgeNo.9,Ms.,AliceWALDERISU,ISU
+2023,2023ec,Women,FS,DataOperator,Ms.,DaianaALLENISU,ISU
+2023,2023ec,Women,FS,ReplayOperator,Mr.,MartinPAULMICHLISU,ISU
