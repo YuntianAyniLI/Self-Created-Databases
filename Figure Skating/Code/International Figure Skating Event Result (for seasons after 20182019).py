@@ -1,4 +1,8 @@
 '''import package and module'''
+'''会出问题的几场PDF
+109-111 2019jgplat： 无法写入数据
+144-148 2020wyog：裁判名称前没有前缀，无法定位，裁判信息手动录入（已解决）
+'''
 import numpy as np
 from numpy import *
 import string
@@ -10,33 +14,14 @@ from spire.pdf.common import *
 import pdfplumber
 import os
 from pathlib import Path
+import statsmodels.formula.api as smf
 
-# 定义四个信息存储字符串矩阵
-BasePanel = np.zeros(shape=(3, 7)).astype(np.str_)
-BasePanelTitle = np.array(
-        ['Year', 'Competition', 'Discipline', 'Round', 'Place', 'Date', 'Time'])
-BasePanel[0, :] = BasePanelTitle
-JudgePanel = np.zeros(shape=(1, 8)).astype(np.str_)
-JudgePanelTitle = np.array(
-        ['Year', 'Competition', 'Discipline', 'Round',  'Role',
-         'JudgeGender', 'JudgeName', 'JudgeNation'])
-JudgePanel[0, :] = JudgePanelTitle
-TESPanel = np.zeros(shape=(1, 20)).astype(np.str_)
-TESPanelTitle = np.array(
-        ['Year', 'Competition', 'Discipline',  'Round', 'Rank', 'SkaterName', 'SkaterNation', 'StartingNumber',
-         'TSS', 'TES', 'PCS', 'DED', 'ElementOrder', 'ExecutedElements', 'Info', 'BV', 'GOE', 'ScoreofPanel','Score', 'Role'])
-TESPanel[0, :] = TESPanelTitle
-PCSPanel = np.zeros(shape=(1, 17)).astype(np.str_)
-PCSPanelTitle = np.array(
-        ['Year', 'Competition', 'Discipline',  'Round', 'Rank', 'SkaterName', 'SkaterNation', 'StartingNumber',
-         'TSS', 'TES', 'PCS', 'DED', 'PC', 'Factor', 'PScoreofPanel','PScore', 'Role'])
-PCSPanel[0, :] = PCSPanelTitle
 
-# 读取所有文件（由ABBYY根据目录拆分，手动命名为标准格式）
+# 读取所有文件（拆分由ABBYY根据目录拆分，手动命名为标准格式）
 file_list = os.listdir('D:\Research\FigureSkating\Result')
 file_num = len(file_list)
-runflag = 1
-for i in range(file_num):
+runflag = 109
+for i in range(runflag, 112, 1):
     path = str(file_list[i])
     filetypeflag = Path(path).suffix
     if filetypeflag == '.pdf':
@@ -45,10 +30,31 @@ for i in range(file_num):
         yeartemp = basestr[0:4]
         competitiontemp = basetempstr[0]
         disciplinetemp = basetempstr[1]
+        # 定义四个信息存储字符串矩阵
+        BasePanel = np.zeros(shape=(3, 7)).astype(np.str_)
+        BasePanelTitle = np.array(
+            ['Year', 'Competition', 'Discipline', 'Round', 'Place', 'Date', 'Time'])
+        BasePanel[0, :] = BasePanelTitle
+        JudgePanel = np.zeros(shape=(1, 8)).astype(np.str_)
+        JudgePanelTitle = np.array(
+            ['Year', 'Competition', 'Discipline', 'Round', 'Role',
+             'JudgeGender', 'JudgeName', 'JudgeNation'])
+        JudgePanel[0, :] = JudgePanelTitle
+        TESPanel = np.zeros(shape=(1, 20)).astype(np.str_)
+        TESPanelTitle = np.array(
+            ['Year', 'Competition', 'Discipline', 'Round', 'Rank', 'SkaterName', 'SkaterNation', 'StartingNumber',
+             'TSS', 'TES', 'PCS', 'DED', 'ElementOrder', 'ExecutedElements', 'Info', 'BV', 'GOE', 'ScoreofPanel',
+             'Score', 'Role'])
+        TESPanel[0, :] = TESPanelTitle
+        PCSPanel = np.zeros(shape=(1, 17)).astype(np.str_)
+        PCSPanelTitle = np.array(
+            ['Year', 'Competition', 'Discipline', 'Round', 'Rank', 'SkaterName', 'SkaterNation', 'StartingNumber',
+             'TSS', 'TES', 'PCS', 'DED', 'PC', 'Factor', 'PScoreofPanel', 'PScore', 'Role'])
+        PCSPanel[0, :] = PCSPanelTitle
 
         # 开始文档信息读取
         with pdfplumber.open(path) as pdf:
-            # 从文档名字获取比赛基本信息（举办地/冰场信息需要手动从网页爬取匹配），一个文档对应一场比赛中的一个单项
+            # 从文档名字获取比赛基本信息（举办国/冰场信息需要手动从网页爬取匹配），一个文档对应一场比赛中的一个单项
             BasePanel[1, 0] = str(yeartemp)
             BasePanel[2, 0] = str(yeartemp)
             BasePanel[1, 1] = competitiontemp
@@ -65,13 +71,14 @@ for i in range(file_num):
                 df = pd.DataFrame(new_list)
                 matrix = df.to_numpy()
                 rows, cols = matrix.shape
-                matrix[matrix == None] = '99999' #用99999来标识一行的末尾
+                matrix[matrix == None] = '99999'  # 用99999来标识一行的末尾
                 # 根据标志词词判断该页面类型：Judges Panel or Result Panel
                 ## Judges Panel
+
                 if 'Technical' in matrix and 'Specialist' in matrix:
                     temp1 = matrix
                     rows, cols = temp1.shape
-                    # 判断是哪个项目/哪个轮次
+                    ## 判断是哪个项目/哪个轮次
                     if 'SHORT' in temp1 or 'RHYTHM' in temp1 or 'FREE' in temp1:
                         if 'SHORT' in temp1 or 'RHYTHM' in temp1:
                             roundtemp = 'SP'
@@ -79,7 +86,7 @@ for i in range(file_num):
                             roundtemp = 'FS'
                     else:
                         roundtemp = 'both'
-                    # 识别裁判身份种类（Technical Specialist有时候没有Assistant前缀）
+                    ## 识别裁判身份种类（Technical Specialist有时候没有Assistant前缀）
                     for r in range(0, rows - 1, 1):
                         ttemp = temp1[r, :].tolist()
                         try:
@@ -93,7 +100,7 @@ for i in range(file_num):
                                 prefixindex = ttemp.index('Mr.')
                             except ValueError:
                                 pass
-                        # 用于标识有裁判有效性息的行
+                        ## 用于标识有裁判有效性息的行
                         addflag = 0
                         if temp1[r, 0] == 'Technical' or temp1[r, 0] == 'Data' or temp1[r, 0] == 'Replay' or temp1[
                             r, 0] == 'Judge' or temp1[r, 0] == 'Assistant' or temp1[r, 0] == 'Referee':
@@ -106,7 +113,7 @@ for i in range(file_num):
                                 nametemp = nametemp + temp1[r, rr]
                             nationtemp = temp1[r, endindex - 1]
                             addflag = 1
-                        # 确定JudgePanel轮次，一些比如GPF裁判会同时判两场
+                        ## 确定JudgePanel轮次，一些比如GPF裁判会同时判两场
                         if addflag == 1:
                             if roundtemp == 'SP':
                                 JudgePanelAdd = [BasePanel[1, 0], BasePanel[1, 1], BasePanel[1, 2], roundtemp, roletemp,
@@ -121,11 +128,12 @@ for i in range(file_num):
                                     [BasePanel[2, 0], BasePanel[2, 1], BasePanel[2, 2], 'FS', roletemp, gendertemp,
                                      nametemp, nationtemp]]
                             JudgePanel = np.row_stack((JudgePanel, JudgePanelAdd))
+
                 # 处理小分表，分TES和PCS
-                if 'Deductions' in matrix:
+                if 'Deductions' in matrix and 'CO' not in matrix:
                     temp2 = matrix
                     row = 0
-                    ## 早年的比赛表头是文字（ISU...）而非图片，有一些'JUDGES DETAILS PERSKATER'是单列的，需要把这些行删去
+                    ## 早年的比赛表头是文字（ISU...）而非图片，有一些'JUDGES DETAILS PERSKATER'是单列的，有时候有REVISE信息，需要把这些行删去
                     while True:
                         new_rows, new_cols = temp2.shape
                         if row > new_rows or row == new_rows:
@@ -136,9 +144,9 @@ for i in range(file_num):
                             else:
                                 row = row + 1
                     ## 判断项目和轮次
-                    if 'SHORT' in temp2[0, :] or 'RHYTHM' in temp2[0, :]:
+                    if 'SHORT' in temp2 or 'RHYTHM' in temp2 or 'Short' in temp2 or 'Rhythm' in temp2:
                         roundtemp = 'SP'
-                    if 'FREE' in temp2[0, :]:
+                    if 'FREE' in temp2 or 'Free' in temp2:
                         roundtemp = 'FS'
 
                     ## 处理杂质行，只留下打分panel
@@ -156,7 +164,10 @@ for i in range(file_num):
                                     temp2[row, 0] != 'Presentation':
                                 temp2 = np.delete(temp2, row, axis=0)
                             else:
-                                row = row + 1
+                                if temp2[row, 0].isdigit() == 1 and len(temp2[row, 0]) > 3:
+                                    temp2 = np.delete(temp2, row, axis=0)
+                                else:
+                                    row = row + 1
                     matrix_rows, matrix_cols = temp2.shape
                     ### 2019年识别行数错位，处理成正确顺序（需要手动发现改正）
                     for r in range(matrix_rows):
@@ -210,7 +221,7 @@ for i in range(file_num):
                     for r in range(1, matrix_rows, 1):
                         ### 判断行光标位置：更换titleindex/选择更新TESPanel/更新PCSPanel
                         #### TES
-                        if temp2[r, 0].isdigit() and temp2[r - 1, 0].isdigit(): #识别包含技术动作打分信息的行（本行和前一行都以数字开头
+                        if temp2[r, 0].isdigit() and temp2[r - 1, 0].isdigit():  # 识别包含技术动作打分信息的行（本行和前一行都以数字开头
                             ##### 处理resultpanel(表头基础信息)
                             ttemp = temp2[titleindex, :].tolist()
                             try:
@@ -234,9 +245,9 @@ for i in range(file_num):
                             try:
                                 endindexr = ttempr.index('99999')
                             except ValueError:
-                                endindexr = matrix_cols - 1 #用于标识裁判数量
+                                endindexr = matrix_cols - 1  # 用于标识裁判数量
                             TESPanelAdd = np.zeros(shape=(endindexr - 5, 20)).astype(np.str_)
-                            for rr in range(4, endindexr - 1): #每个裁判对每个技术动作的打分自成一行
+                            for rr in range(4, endindexr - 1):  # 每个裁判对每个技术动作的打分自成一行
                                 if temp2[r, matrix_cols - 1] != '99999':
                                     infotemp = temp2[r, matrix_cols - 1]
                                 else:
@@ -259,14 +270,14 @@ for i in range(file_num):
                         if temp2[r, 0] == 'Composition' or temp2[r, 0] == 'Presentation' or temp2[r, 0] == 'Skating' or \
                                 temp2[
                                     r, 0] == 'Transitions' or temp2[r, 0] == 'Interpretation' or temp2[
-                            r, 0] == 'Performance': #识别包含节目内容分打分信息的行（P分五大/三大项首词）
+                            r, 0] == 'Performance':  # 识别包含节目内容分打分信息的行（P分五大/三大项首词）
                             ttempr = temp2[r, :].tolist()
                             try:
                                 endindexr = ttempr.index('99999')
                             except ValueError:
                                 endindexr = matrix_cols - 1
                             PCSPanelAdd = np.zeros(shape=(endindexr - 3, 17)).astype(np.str_)
-                            for rr in range(2, endindexr - 1): #每个裁判对每个节目内容分项的打分自成一行
+                            for rr in range(2, endindexr - 1):  # 每个裁判对每个节目内容分项的打分自成一行
                                 pctemp = temp2[r, 0]
                                 factortemp = temp2[r, 1]
                                 pscoreofpaneltemp = temp2[r, endindexr - 1]
@@ -281,17 +292,18 @@ for i in range(file_num):
                             PCSPanel = np.row_stack((PCSPanel, PCSPanelAdd))
 
                         #### 更新titleindex，一页可能有一/二/三个选手的小分表
-                        if temp2[r, 0].isdigit() and temp2[r + 1, 0].isdigit() and temp2[r - 1, 0].isdigit() != 1: #识别换下一个选手
+                        if temp2[r, 0].isdigit() and temp2[r + 1, 0].isdigit() and temp2[
+                            r - 1, 0].isdigit() != 1:  # 识别换下一个选手
                             titleindex = r
 
-        print(runflag) #跑的时候可以看看进度到哪里了，我好急
+        print(runflag) #显示已读取PDF进度
         runflag = runflag + 1
+        np.savetxt('D:\Research\FigureSkating\Result\JudgePanel/' + basestr + 'JudgePanel.csv', JudgePanel, delimiter=',', fmt='%s')
+        np.savetxt('D:\Research\FigureSkating\Result\TESPanel/' + basestr + 'TESPanel.csv', TESPanel, delimiter=',', fmt='%s')
+        np.savetxt('D:\Research\FigureSkating\Result\PCSPanel/' + basestr + 'PCSPanel.csv', PCSPanel, delimiter=',', fmt='%s')
 
 
 
-np.savetxt('JudgePanel.csv', JudgePanel, delimiter = ',', fmt='%s')
-np.savetxt('TESPanel.csv', TESPanel, delimiter = ',', fmt='%s')
-np.savetxt('PCSPanel.csv', PCSPanel, delimiter = ',', fmt='%s')
 
 
 
