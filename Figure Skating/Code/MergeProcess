@@ -1,0 +1,3 @@
+# for the appending
+openall *, directory(C:\TESPanel) insheet storefilename(source)
+save TESPanel.dta, replace
