@@ -1,3 +1,28 @@
 # for the appending
-openall *, directory(C:\TESPanel) insheet storefilename(source)
-save TESPanel.dta, replace
+import os
+import pandas as pd
+path="D:\Research\FigureSkating\CheckedResult\TESPanel\"
+file_list = [path + f for f in os.listdir(path)]
+
+csv_list=[]
+for file in sorted(file_list):
+    csv_list.append(pd.read_csv(file).assign(File_Name = os.path.basename(file)))
+
+csv_merged =pd.concat(csv_list, ignore_index=True)
+
+csv_merged.to_csv(path +'TESPanel.csv', index=False)
+print("CSV files merged successfully!")
+
+import os
+import pandas as pd
+path="D:\Research\FigureSkating\CheckedResult\PCSPanel\"
+file_list = [path + f for f in os.listdir(path)]
+
+csv_list=[]
+for file in sorted(file_list):
+    csv_list.append(pd.read_csv(file).assign(File_Name = os.path.basename(file)))
+
+csv_merged =pd.concat(csv_list, ignore_index=True)
+
+csv_merged.to_csv(path +'PCSPanel.csv', index=False)
+print("CSV files merged successfully!")
